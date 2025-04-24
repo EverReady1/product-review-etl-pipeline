@@ -1,0 +1,6 @@
+review_id,product_id,rating,review_text,review_date
+1,A101,5.0,AMAZING!! I loved it so much,2024-01-01
+2,A101,,meh. not great... would return.,2024-01-03
+3,A102,4.0,pretty good but arrived late,not-a-date
+4,A103,3.0,,2024-01-05
+5,A104,2.0,Terrible! Worst purchase ever!,2024-01-07
